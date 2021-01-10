@@ -4,7 +4,7 @@ Este es el proyecto de la práctica de Cloud GCP de DEVOPS 3.
 
 ## Mi proyecto
 
-- Cuenta: jamg44f@gmail.com
+- Cuenta: jamg44f arroba gmail punto com
 - Proyecto: singular-node-297221 (“Practica Devops 3 - GCP” - 211748606025)
 - Acceso de editor dado a ​javioreto arroba gmail punto com
 
